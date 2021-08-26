@@ -1,5 +1,5 @@
 # HNC
-ACMM oral 2021
+ACMM oral 2021: **Hybrid Network Compression via Meta-Learning**
 
 Some codes are refered to https://github.com/ofsoundof/dhp.
 
